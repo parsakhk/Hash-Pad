@@ -4,7 +4,7 @@ from tkinter import font
 from tkinter import colorchooser
 from tkinter import messagebox
 root = Tk()
-root.title("HASH-PAS 2.0")
+root.title("HASH-PAD 2.0")
 root.geometry("1200x688")
 
 global open_status_name
